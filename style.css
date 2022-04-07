@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100&display=swap");
+body {
+  background-color: rgb(206, 104, 189);
+}
+.body-contact {
+  background-image: url(background-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img-1 {
+  float: left;
+}
+.main {
+  padding-left: 30px;
+}
+hr {
+  border-width: 2px;
+  width: 30%;
+}
+
+table,
+td {
+  border: 1px solid;
+  width: 100%;
+}
+.table-1 {
+  text-align: center;
+}
+
+#Contact-button {
+  text-align: center;
+  margin-top: 2%;
+  margin-left: 49%;
+  margin-right: 49%;
+  background-color: rgb(255, 57, 57);
+  color: rgb(252, 246, 246);
+  border-radius: 5px;
+  padding: 5px;
+}
+#Contact-button a {
+  text-decoration: none;
+  color: rgb(253, 244, 244);
+}
+.Form {
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 20%;
+  margin-bottom: 2%;
+}
+.send-info {
+  text-align: center;
+  margin-left: 50%;
+  margin-right: 50%;
+  background-color: rgb(255, 57, 57);
+  color: rgb(252, 246, 246);
+  border-radius: 5px;
+}
